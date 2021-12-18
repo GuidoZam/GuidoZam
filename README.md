@@ -1,6 +1,10 @@
 ### 🚧 Work in progress..
 
 <!--
+[![Profile views](https://komarev.com/ghpvc/?username=GuidoZam&label=Profile%20Views&color=blue)](https://github.com/GuidoZam)
+-->
+
+<!--
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FGuidoZam%2FGuidoZam&label=STRANGERS&labelColor=%23fe428e&countColor=%23a9fef7)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FGuidoZam%2FGuidoZam)
 -->
 
