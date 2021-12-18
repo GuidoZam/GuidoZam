@@ -13,7 +13,6 @@
 -->
 
 <!--
-**GuidoZam/GuidoZam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ✨ _MCTS_ ✨
 
@@ -28,6 +27,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+## ☕️ Support Me
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D57IO36)
 
 -->
