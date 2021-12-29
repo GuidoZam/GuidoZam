@@ -1,4 +1,4 @@
-### 🚧 Work in progress...
+### 🚧 Work in progress 🚧
 
 <!--
 [![Profile views](https://komarev.com/ghpvc/?username=GuidoZam&label=Profile%20Views&color=blue)](https://github.com/GuidoZam)
