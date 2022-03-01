@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on SPFx
 
-🌱 I’m currently learning Golang & PowerApps
+🌱 I’m currently learning PowerApps & Golang
 
 <!--
 [![Profile views](https://komarev.com/ghpvc/?username=GuidoZam&label=Profile%20Views&color=blue)](https://github.com/GuidoZam)
