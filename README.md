@@ -1,6 +1,6 @@
 ### 🚧 Work in progress 🚧
 
-## Hey there
+## Hey there!
 
 🔭 I’m currently working on SPFx
 
