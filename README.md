@@ -1,10 +1,12 @@
-### 🚧 Work in progress 🚧
+## 🚧 Work in progress 🚧
 
-## Hey there!
-
-🔭 I’m currently working on SPFx
+🔭 I’m currently working with SPFx
 
 🌱 I’m currently learning PowerApps & Golang
+
+## 📈 Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuidoZam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 [![Profile views](https://komarev.com/ghpvc/?username=GuidoZam&label=Profile%20Views&color=blue)](https://github.com/GuidoZam)
