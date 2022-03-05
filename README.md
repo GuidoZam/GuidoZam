@@ -2,7 +2,7 @@
 
 🔭 I’m currently working with SPFx
 
-🌱 I’m currently learning PowerApps & Golang
+🌱 I’m currently learning PowerApps & Go
 
 ## 📈 Stats
 
