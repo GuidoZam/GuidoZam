@@ -2,7 +2,7 @@
 
 🔭 I’m currently working with SPFx
 
-🥳 I'm currently having fun with Microsoft ACEs
+🥳 I'm currently having fun with SharePoint Adaptive Card Extensions (ACEs)
 
 🌱 I’m currently learning PowerApps & Go
 
