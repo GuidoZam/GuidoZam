@@ -1,4 +1,4 @@
-## 🚧 Work in progress 🚧
+# 🚧 Work in progress 🚧
 
 🔭 I’m currently working with SPFx
 
@@ -6,7 +6,9 @@
 
 🌱 I’m currently learning PowerApps, Go and Python
 
-## 📈 GitHub Stats
+----------------------------
+
+### 📈 GitHub Stats
 
 [![Profile views](https://komarev.com/ghpvc/?username=GuidoZam&label=Profile%20Views&color=blue)](https://github.com/GuidoZam)
 
@@ -20,8 +22,6 @@
 [![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=GuidoZam&theme=radical&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
 &count_private=true
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
