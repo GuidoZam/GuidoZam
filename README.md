@@ -4,7 +4,7 @@
 
 🥳 I'm currently having fun with SharePoint Adaptive Card Extensions (ACEs)
 
-🌱 I’m currently learning PowerApps & Go
+🌱 I’m currently learning PowerApps, Go and Python
 
 ## 📈 GitHub Stats
 
