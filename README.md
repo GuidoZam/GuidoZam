@@ -12,7 +12,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuidoZam&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
 [![Profile views](https://komarev.com/ghpvc/?username=GuidoZam&label=Profile%20Views&color=blue)](https://github.com/GuidoZam)
+-->
 
 <!--
 [![Github](https://img.shields.io/github/followers/guidozam?label=Follow&style=social)](https://github.com/guidozam)
