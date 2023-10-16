@@ -6,6 +6,8 @@
 
 🌱 I’m currently learning PowerApps
 
+🧠 Check my blog [here](https://iamguidozam.blog/)!
+
 ----------------------------
 
 ### 📈 GitHub Stats
