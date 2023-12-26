@@ -8,7 +8,7 @@
 
 🧠 Check my blog [here](https://iamguidozam.blog/)!
 
-🌳 Check my Linktree [here](https://linktr.ee/guidozam)
+🌴 Check my Linktree [here](https://linktr.ee/guidozam)
 
 ----------------------------
 
