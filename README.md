@@ -4,7 +4,7 @@
 
 🥳 I'm currently having fun helping the community
 
-🌱 I’m always into improving myself, currently learning PowerApps
+🌱 I’m always into improving myself, currently learning Power Automate
 
 🧠 Check my blog [here](https://iamguidozam.blog/)!
 
