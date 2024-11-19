@@ -11,6 +11,7 @@
 🌴 Check my Linktree [here](https://linktr.ee/guidozam)
 
 [![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/guidozam/)
+[![Bluesky](https://img.shields.io/badge/guidozam.bsky.social-87ceeb.svg)](https://bsky.app/profile/guidozam.bsky.social)
 [![X](https://img.shields.io/badge/X-%40iamguidozam-222222.svg)](https://x.com/iamguidozam)
 
 ----------------------------
